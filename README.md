@@ -85,7 +85,8 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ![Exemplo de Carrinho](https://via.placeholder.com/800x400?text=Imagem+do+Carrinho)
 
 ### Arquitetura do Projeto
-![Arquitetura](https://via.placeholder.com/800x400?text=Diagrama+da+Arquitetura)
+![Arquitetura]<img width="470" height="767" alt="image" src="https://github.com/user-attachments/assets/0907397e-f629-4d65-87c9-95f7a6e5e000" />
+
 
 ---
 
