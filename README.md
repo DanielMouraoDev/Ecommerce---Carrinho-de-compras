@@ -81,10 +81,11 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📸 Screenshots
 
-### Interface do Carrinho
-![Exemplo de Carrinho](https://via.placeholder.com/800x400?text=Imagem+do+Carrinho)
+### Interface do Postman
+![Exemplo de Carrinho] <img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/fe0259fd-0849-4d7e-9146-834db5b12a2a" />
 
-### Arquitetura do Projeto
+
+### Arquitetura em Camadas do Projeto
 ![Arquitetura]<img width="470" height="767" alt="image" src="https://github.com/user-attachments/assets/0907397e-f629-4d65-87c9-95f7a6e5e000" />
 
 
